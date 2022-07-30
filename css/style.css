@@ -1,0 +1,28 @@
+* {
+  margin: o;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: #ecf0f1;
+}
+
+p {
+  color: #524c56;
+  font-size: 160%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+}
+
+h3 {
+  font-size: 175%;
+  line-height: 155%;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0;
+  color: #524c56;
+}
